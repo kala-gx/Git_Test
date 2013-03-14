@@ -7,7 +7,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method
-		System.out.print("321");
+		System.out.print("ss");
 	}
 
 }
