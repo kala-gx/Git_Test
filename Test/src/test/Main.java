@@ -7,7 +7,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method
-		System.out.print("kala22222222");
+		System.out.print("kala2");
 	}
 
 }
